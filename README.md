@@ -7,6 +7,7 @@
 * API UI - https://www.drupal.org/project/restui
 * API kirjeldus - https://www.drupal.org/project/rest_api_doc
 * Andmete import KVR-ist - https://www.drupal.org/project/feeds
+* Ärireeglid - https://www.drupal.org/project/rules
 
 ### BIM
 * BIMserver - http://bimserver.org/
