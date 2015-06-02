@@ -17,3 +17,4 @@
 ### BIM
 * BIMserver - http://bimserver.org/
 * BIMsie API - https://buildingsmart.github.io/BIMSie/
+* COBie D7 - https://github.com/kinnisvara/BreCOBie
