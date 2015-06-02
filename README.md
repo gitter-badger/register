@@ -2,6 +2,9 @@
 
 ## Andmemudel
 
+* IFC4
+* MVD COBie - http://docs.buildingsmartalliance.org/MVD_COBIE/
+
 ## Andmed
 * Aadressiandmed - http://inaadress.maaamet.ee/inaadress/
 * Riigi KVR - https://riigivara.fin.ee/kvr/
