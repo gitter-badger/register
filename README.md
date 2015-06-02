@@ -20,4 +20,4 @@
 * COBie D7 - https://github.com/kinnisvara/BreCOBie
 
 ### Arendamise töökorraldus
-* WunderFlow - http://www.wunderkraut.com/blog/introducing-wunderflow/2015-06-01
+* WunderFlow - http://wunderkraut.github.io/WunderFlow/ ([blog](http://www.wunderkraut.com/blog/introducing-wunderflow/2015-06-01))
