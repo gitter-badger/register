@@ -1,12 +1,12 @@
 # Kinnisvararegister
 
-## Andmed
+## Andmemudel
 
+## Andmed
 * Aadressiandmed - http://inaadress.maaamet.ee/inaadress/
 * Riigi KVR - https://riigivara.fin.ee/kvr/
 
-## Tehniline platvorm
-
+## Rakendus
 ### Drupal
 * Tuum - https://www.drupal.org/drupal-8.0
 * API UI - https://www.drupal.org/project/restui
@@ -18,3 +18,6 @@
 * BIMserver - http://bimserver.org/
 * BIMsie API - https://buildingsmart.github.io/BIMSie/
 * COBie D7 - https://github.com/kinnisvara/BreCOBie
+
+### Arendamise töökorraldus
+* WunderFlow - http://www.wunderkraut.com/blog/introducing-wunderflow/2015-06-01
